@@ -194,13 +194,7 @@ function App() {
 
               <h3>Marvel Recruiting Power Rankings</h3>
 
-              <div className="next-image">
-                <img
-                  src="/images/tiktok-oa.png"
-                  alt="TikTok recruiting result that helped inspire the Marvel Recruiting Power Rankings project"
-                />
-              </div>
-
+              
               <p>
                 The idea started after I went through a difficult TikTok software
                 engineering online assessment. Around the same time, it got me thinking about how I could represent
