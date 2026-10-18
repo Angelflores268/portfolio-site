@@ -196,7 +196,7 @@ function App() {
 
               
               <p>
-                The idea started after I went through a difficult TikTok software
+                The idea started after I went through a difficult software
                 engineering online assessment. Around the same time, it got me thinking about how I could represent
                 recruiting difficulty and progress using Marvel style power rankings.
               </p>
